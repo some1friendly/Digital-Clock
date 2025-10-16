@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+#clock-container{
+    max-width: 500px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    font-size: 7rem;
+}
